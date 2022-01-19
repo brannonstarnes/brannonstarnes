@@ -1,4 +1,8 @@
-### Hi there 👋
+![Header](https://github.com/brannonstarnes/brannonstarnes/blob/main/header.png?raw=true)
+
+## About Me
+
+Deep Sea Diver turned Full Stack Developer. I'm an explorer at heart and live for moments of discovery. I discovered my passion for development while attending a school to learn to operate Unmanned Underwater Vehicles. I was blown away by the technology utilized in those vehicles and that the 'brains' were essentially instructions written by a developer. My dream is to be part of a team that is pushing technological and scientific boundaries in order to further our understanding of our planet, our galaxy, our universe. 
 
 <!--
 **brannonstarnes/brannonstarnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
